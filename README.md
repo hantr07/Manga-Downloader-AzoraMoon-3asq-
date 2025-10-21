@@ -49,6 +49,7 @@ python azoramoonV3.py "https://azoramoon.com/series/manga-name/" --from 5 --to 1
 ```bash
 python 3asq.py "https://3asq.org/manga/manga-name/chapter-12/"
 ```
+
 ## 🧾 Example Output
 
 ## When you run the script, you’ll see output like this:
@@ -63,4 +64,9 @@ python 3asq.py "https://3asq.org/manga/manga-name/chapter-12/"
 [2/28] Downloading https://azoramoon.com/wp-content/uploads/solo-leveling-002.jpg
 ...
 ✅ Chapter complete: Solo_Leveling/chapter-5/
+```
+If a chapter already exists, it will automatically skip it:
+⏭ Skipping chapter-4 (already exists)
+
+
 
