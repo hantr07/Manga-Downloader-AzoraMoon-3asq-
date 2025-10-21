@@ -52,3 +52,14 @@ python 3asq.py "https://3asq.org/manga/manga-name/chapter-12/"
 ## 🧾 Example Output
 
 ## When you run the script, you’ll see output like this:
+📚 Manga: Solo_Leveling
+✅ Found 200 chapters
+🔢 Filtered to 10 chapters
+
+=== Downloading chapter 5: https://azoramoon.com/series/solo-leveling/chapter-5 ===
+  Found 28 images
+[1/28] Downloading https://azoramoon.com/wp-content/uploads/solo-leveling-001.jpg
+[2/28] Downloading https://azoramoon.com/wp-content/uploads/solo-leveling-002.jpg
+...
+✅ Chapter complete: Solo_Leveling/chapter-5/
+
