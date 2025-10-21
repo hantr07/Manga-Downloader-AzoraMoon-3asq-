@@ -28,3 +28,9 @@ These scripts use **Playwright** to render pages and **BeautifulSoup** to extrac
 ### 🔧 Install dependencies
 ```bash
 pip install -r requirements.txt
+```
+Install Playwright browsers
+playwright install
+
+
+Requires Python 3.8+
