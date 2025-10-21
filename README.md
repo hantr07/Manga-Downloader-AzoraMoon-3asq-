@@ -74,6 +74,7 @@ If a chapter already exists, it will automatically skip it:
 ## 🗂️ Output Structure
 
 ### Downloaded chapters are organized automatically:
+```bash
 Manga_Title/
 ├── chapter-1/
 │   ├── 001.jpg
