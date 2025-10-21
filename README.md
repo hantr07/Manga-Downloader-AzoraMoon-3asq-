@@ -19,7 +19,7 @@ These scripts use **Playwright** to render pages and **BeautifulSoup** to extrac
 | Script | Description |
 |--------|-------------|
 | **azoramoonV3.py** | General-purpose manga downloader for AzoraMoon and similar Madara-based sites |
-| **3asq.py** | Optimized specifically for [3asq.org](https://3asq.org/) / [3asq.com](https://3asq.com) |
+| **3asq.py** | Optimized specifically for [3asq.org](https://3asq.org/) |
 
 ---
 
@@ -48,3 +48,7 @@ python azoramoonV3.py "https://azoramoon.com/series/manga-name/" --from 5 --to 1
 📘 Single chapter
 ```bash
 python 3asq.py "https://3asq.org/manga/manga-name/chapter-12/"
+```
+## 🧾 Example Output
+
+## When you run the script, you’ll see output like this:
