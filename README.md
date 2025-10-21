@@ -70,6 +70,4 @@ python 3asq.py "https://3asq.org/manga/manga-name/chapter-12/"
 If a chapter already exists, it will automatically skip it:
 ```arduino
 ⏭ Skipping chapter-4 (already exists)
-
-
-
+```
