@@ -66,8 +66,19 @@ python 3asq.py "https://3asq.org/manga/manga-name/chapter-12/"
 ✅ Chapter complete: Solo_Leveling/chapter-5/
 ```
 
-
 If a chapter already exists, it will automatically skip it:
 ```arduino
 ⏭ Skipping chapter-4 (already exists)
 ```
+
+## 🗂️ Output Structure
+
+### Downloaded chapters are organized automatically:
+Manga_Title/
+├── chapter-1/
+│   ├── 001.jpg
+│   ├── 002.jpg
+│   └── ...
+├── chapter-2/
+│   ├── 001.jpg
+│   └── ...
