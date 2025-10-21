@@ -29,6 +29,9 @@ These scripts use **Playwright** to render pages and **BeautifulSoup** to extrac
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
 📦 Usage
 🖥️ Download all chapters from a series
 ```bash
