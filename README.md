@@ -32,8 +32,9 @@ pip install -r requirements.txt
 
 ---
 
-📦 Usage
-🖥️ Download all chapters from a series
+## 📦 Usage
+
+### 🖥️ Download all chapters from a series
 ```bash
 python azoramoonV3.py "https://azoramoon.com/series/manga-name/"
 ```
