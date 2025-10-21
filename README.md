@@ -28,3 +28,18 @@ These scripts use **Playwright** to render pages and **BeautifulSoup** to extrac
 ### 🔧 Install dependencies
 ```bash
 pip install -r requirements.txt
+```
+📦 Usage
+🖥️ Download all chapters from a series
+python azoramoonV3.py "https://azoramoon.com/series/manga-name/"
+
+
+or for 3asq:
+
+python 3asq.py "https://3asq.org/manga/manga-name/"
+
+🔢 Download a specific range
+python azoramoonV3.py "https://azoramoon.com/series/manga-name/" --from 5 --to 10
+
+📘 Single chapter
+python 3asq.py "https://3asq.org/manga/manga-name/chapter-12/"
