@@ -1,3 +1,11 @@
+# 🌀 azora3asq-dl
+**Manga downloader for AzoraMoon & 3asq — powered by Playwright + BeautifulSoup**
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Playwright](https://img.shields.io/badge/Playwright-Automation-green?logo=microsoftedge)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey)
+
 # 📚 Manga Downloader (AzoraMoon & 3asq)
 
 A simple Python-based manga downloader for sites built with the **Madara** WordPress theme, including **AzoraMoon** and **3asq.com**.
