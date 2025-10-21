@@ -53,7 +53,7 @@ python 3asq.py "https://3asq.org/manga/manga-name/chapter-12/"
 ## 🧾 Example Output
 
 ## When you run the script, you’ll see output like this:
-```bash
+```swift
 📚 Manga: Solo_Leveling
 ✅ Found 200 chapters
 🔢 Filtered to 10 chapters
