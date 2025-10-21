@@ -1,11 +1,3 @@
-📁 Folder structure
-manga-downloader/
-├── azoramoonV3.py
-├── 3asq.py
-├── README.md
-└── requirements.txt
-
-🧾 README.md
 # 📚 Manga Downloader (AzoraMoon & 3asq)
 
 A simple Python-based manga downloader for sites built with the **Madara** WordPress theme, including **AzoraMoon** and **3asq.com**.
@@ -36,7 +28,7 @@ These scripts use **Playwright** to render pages and **BeautifulSoup** to extrac
 ### 🔧 Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 🌐 Install Playwright browsers
 playwright install
 
